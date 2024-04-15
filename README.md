@@ -1,1 +1,4 @@
-# Smart-Internz
+# Suicides in India visualization using tablue	
+	
+	
+	
